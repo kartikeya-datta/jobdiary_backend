@@ -1,22 +1,15 @@
-# Job Winner
+# JobDiary
 
-## Live Demo
-
-🚀 Check out the live demo! 👉 https://jobwinner.duckdns.org
-
-✨ The data refreshes automatically every hour, so feel free to explore and test out any feature!
-
-Let me know if you'd like any further tweaks by submitting an issue!
 
 ## Background
 
-I lost my job right before the holiday season in 2022. I need to look for a new job and apply for as many as I can while all the big techs are laying off talents.
+I am trying to develop this application as a way to help myself manage my daily tasks and appointments in this hard US market. The application will allow me to keep track of different jobs I am applying to and their updated with consistent traack of my progress. This will help me to stay organized and focused on my job search.
 
-To keep track of job applications:
+I tried to keep track of job applications using:
 
-1. Use Google Spreadsheet (I am using it before this project). It is ugly, hard to maintain and easy to mess up the layout.
-1. Use online tool like huntr.co. But it can only track 40 jobs and I don't want to spend a dime for the premium service.
-1. Use pen and paper. It works but I can't copy and paste information such as the job url link and utilize it later.
+1. Google Spreadsheet (I am using it before this project). It is ugly, hard to maintain and easy to mess up the layout.
+1. Online tool like huntr.co. But it can only track 40 jobs and I don't want to spend a dime for the premium service.
+1. Pen and paper. It works but I can't copy and paste information such as the job url link and utilize it later.
 
 None of the about is fun or totally fit my use case.
 
